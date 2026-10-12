@@ -8,6 +8,7 @@
     "test": 167,
     "val": 192
   },
+  "verify_all_passed": true,
   "verify": "27/27 checks passed",
   "ran_at": "2026-10-12T15:06:13.000000+00:00"
 }
