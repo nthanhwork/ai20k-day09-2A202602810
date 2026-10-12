@@ -1,0 +1,13 @@
+{
+  "experiment": "run_summary",
+  "student_id": "2A202602810",
+  "dataset_version": "e51654bfeb45",
+  "frames": 1019,
+  "by_split": {
+    "train": 660,
+    "test": 167,
+    "val": 192
+  },
+  "verify": "27/27 checks passed",
+  "ran_at": "2026-10-12T15:06:13.000000+00:00"
+}
